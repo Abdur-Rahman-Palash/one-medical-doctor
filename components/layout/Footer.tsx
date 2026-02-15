@@ -187,6 +187,9 @@ export default function Footer() {
           <p className="mt-2">
             One Medical Group™ and One Medical are trademarks of One Medical Group, Inc.
           </p>
+          <p className="mt-4 text-lg font-semibold text-white">
+            Powered by- <a href="https://neubyte.tech" target="_blank" rel="noopener noreferrer" className="hover:text-primary-400 transition-colors">neubyte.tech</a>
+          </p>
         </div>
       </div>
     </footer>
